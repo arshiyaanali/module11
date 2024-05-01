@@ -1,1 +1,1 @@
-This is my module 11 assignment.
+I uploaded the vehicles dataset to compare the prices with the models and the frequency of the cars. From the graphs I saw the newest car was the most expensive. As for the brand and model most of the cars in this dataset were fords, cheverolet, and toyota. The truck was the most expensive car compared to the other cars whereas the sedan was the cheapest. As the years has goneby the price values increases as well. 
